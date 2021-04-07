@@ -1,4 +1,4 @@
-# IBM-TestAutomation
+## IBM-TestAutomation
 Test Framework for IBM
 
 ## How to Run the Test script?
